@@ -15,4 +15,4 @@ This app allows users to Add, Update, Delete, View, and Manage daily tasks direc
 
 ✔ Beginner-friendly Python code
 
-✔ No external libraries required
+✔ No external libraries required in this python code
