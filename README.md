@@ -7,7 +7,7 @@ This app allows users to Add, Update, Delete, View, and Manage daily tasks direc
 
 ✔ Update an existing task
 
-✔ Delete a task
+✔ Delete a task when required
 
 ✔ View all tasks
 
